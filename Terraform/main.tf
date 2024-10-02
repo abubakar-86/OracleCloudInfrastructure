@@ -1,4 +1,3 @@
-/*
 # main.tf
 locals {
   cmpt_name_prefix = "A506"
